@@ -1,0 +1,8 @@
+{
+  "id": "tristegram",
+  "name": "Tristegram UI",
+  "version": "1.0.0",
+  "description": "Премиальный iOS-стиль интерфейса: стекло, размытие, плавные анимации и заголовок Tristegram.",
+  "author": "Tristegram",
+  "main": "tristegram.plugin.js"
+}
